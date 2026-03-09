@@ -1,0 +1,9 @@
+.DS_Store
+gpt2/
+data/
+*.pth
+__pycache__/
+*.log
+*.csv
+*.json
+*.txt
